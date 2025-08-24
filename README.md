@@ -80,11 +80,13 @@
 
 <details>
 <summary><b>📊 Statistics</b></summary>
-<img src="https://github-readme-stats-drb42nvb1-koegoorns-projects.vercel.app/api?username=KoeGoorn&show_icons=true&theme=radical&hide_border=true&count_private=true&show=prs_merged" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-drb42nvb1-koegoorns-projects.vercel.app/api?username=KoeGoorn&show_icons=true&theme=radical&hide_border=true&count_private=true&show=prs_merged&hide=stars" alt="GitHub Stats"/>
 <img src="https://github-readme-stats-drb42nvb1-koegoorns-projects.vercel.app/api/top-langs/?username=KoeGoorn&theme=radical&hide_border=true&count_private=true" alt="Top Languages"/>
-<p align="center">
-  <img src="https://wakatime.com/share/@b990f53c-a40e-4a73-a4ed-f7a43aecaa46/128b1acf-a08c-4ec3-9da2-233567245455.svg" alt="WakaTime Stats"/>
-</p>
+<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=KoeGoorn&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/></p>
+<p> <img src="https://wakatime.com/share/@b990f53c-a40e-4a73-a4ed-f7a43aecaa46/128b1acf-a08c-4ec3-9da2-233567245455.svg" alt="WakaTime Stats"/></p>
+
+<p><img src="/github-metrics.svg" alt="Metrics"></p>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%201%20min-blue)
 
