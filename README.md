@@ -80,63 +80,14 @@
 
 <details>
 <summary><b>📊 Statistics</b></summary>
-<img src="https://github-readme-stats-drb42nvb1-koegoorns-projects.vercel.app/api?username=KoeGoorn&show_icons=true&theme=radical&hide_border=true&count_private=true&show=prs_merged&hide=stars" alt="GitHub Stats"/>
-<img src="https://github-readme-stats-drb42nvb1-koegoorns-projects.vercel.app/api/top-langs/?username=KoeGoorn&theme=radical&hide_border=true&count_private=true" alt="Top Languages"/>
+<img src="https://github-readme-stats-one-henna-85.vercel.app/api?username=KoeGoorn&show_icons=true&theme=radical&hide_border=true&count_private=true&show=prs_merged&hide=stars" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-one-henna-85.vercel.app/api/top-langs/?username=KoeGoorn&theme=radical&hide_border=true&count_private=true" alt="Top Languages"/>
 <p><img src="https://github-readme-activity-graph.vercel.app/graph?username=KoeGoorn&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/></p>
 <p> <img src="https://wakatime.com/share/@b990f53c-a40e-4a73-a4ed-f7a43aecaa46/128b1acf-a08c-4ec3-9da2-233567245455.svg" alt="WakaTime Stats"/></p>
 
-<p><img src="/github-metrics.svg" alt="Metrics"></p>
+<p><img src="/metrics.plugin.wakatime.svg" alt="Metrics"></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2049%20mins-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 351.2 kB Used in GitHub's Storage 
- > 
-> 🏆 785 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 2 Public Repositories 
- > 
-> 🔑 18 Private Repositories 
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                173 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-🌆 Daytime                1466 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-🌃 Evening                4257 commits        ████████████░░░░░░░░░░░░░   46.21 % 
-🌙 Night                  3317 commits        █████████░░░░░░░░░░░░░░░░   36.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 3 hrs 21 mins       ███████████████████░░░░░░   75.88 % 
-YAML                     1 hr 1 min          ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-Dart                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-Java                     5 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-JavaScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-Dart                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-```
-
-
-
-
- Last Updated on 24/08/2025 01:48:30 UTC
 <!--END_SECTION:waka-->
 
 </details>
