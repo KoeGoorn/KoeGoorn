@@ -72,7 +72,7 @@
 
 <h3>DualView Reader</h3>
 <p>An application for parallel text reading. It combines a Flutter mobile client with a distributed Python backend (Flask, Celery). The infrastructure is containerized with Docker and deployed via a CI/CD pipeline on DigitalOcean.</p>
-➡️ <strong><a href="https://github.com/dualview-reader-project">View Project</a></strong>
+➡️ <strong><a href="https://github.com/dvreader">View Project</a></strong>
 
 
 
