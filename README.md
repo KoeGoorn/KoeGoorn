@@ -88,21 +88,8 @@
 <p><img src="/metrics.plugin.wakatime.svg" alt="Metrics"></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2053%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Markdown                 4 hrs 57 mins       █████████████████░░░░░░░░   68.87 % 
-YAML                     1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
-Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
-Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-```
-
-
- Last Updated on 29/08/2025 18:16:47 UTC
+ Last Updated on 30/08/2025 00:54:03 UTC
 <!--END_SECTION:waka-->
 
 </details>
