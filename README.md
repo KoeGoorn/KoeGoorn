@@ -88,8 +88,21 @@
 <p><img src="/metrics.plugin.wakatime.svg" alt="Metrics"></p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2043%20mins-blue)
 
- Last Updated on 30/08/2025 00:54:03 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Other                    3 hrs 10 mins       ███████████░░░░░░░░░░░░░░   43.09 % 
+Markdown                 2 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   40.19 % 
+YAML                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+GitIgnore file           9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+```
+
+
+ Last Updated on 30/08/2025 06:15:37 UTC
 <!--END_SECTION:waka-->
 
 </details>
