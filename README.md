@@ -88,7 +88,7 @@
 <p><img src="/metrics.plugin.wakatime.svg" alt="Metrics"></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2054%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -102,7 +102,7 @@ GitIgnore file           9 mins              ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 02/09/2025 18:15:41 UTC
+ Last Updated on 03/09/2025 00:53:58 UTC
 <!--END_SECTION:waka-->
 
 </details>
