@@ -88,17 +88,18 @@
 <p><img src="/metrics.plugin.wakatime.svg" alt="Metrics"></p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2059%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-18%20hrs%205%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    6 mins              █████████████████████████   100.00 % 
+Other                    37 mins             ███████████████████████░░   92.07 % 
+Python                   3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
 ```
 
 
- Last Updated on 12/09/2025 00:54:03 UTC
+ Last Updated on 12/09/2025 06:17:46 UTC
 <!--END_SECTION:waka-->
 
 </details>
